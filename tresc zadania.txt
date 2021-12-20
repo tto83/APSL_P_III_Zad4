@@ -1,10 +1,13 @@
-    1. Napisz program, który wczytuje n liczb zapisanych w pliku tekstowym (n też jest zapisane w pliku), a następnie dla każdej z nich (oznaczmy dla przykładu kolejną liczbę odczytaną z pliku jako x) oblicza wartość m*x+n, gdzie:
-      x-  argument funkcji
-      m- ilość podzielników liczby x
-    a- ilość liczb z zakresu 2..x, które są liczbami pierwszymi
-i wypisuje te wartości na ekranie.
-Program powinien przewidywać obsługę dwóch standardowych wyjątków:
-    • brak pliku do odczytu danych
-    • nieprawidłowy format danych wejściowych z pliku
-oraz obsługę jednego dodatkowego wyjątku wymyślonego fantazyjnie przez siebie. Plik z liczbami do testowania rozwiązania można sobie utworzyć samodzielnie.
+1. Napisz program, który wczytuje n liczb zapisanych w pliku tekstowym (n też jest zapisane w pliku), a następnie dla każdej z nich (oznaczmy dla przykładu kolejną liczbę odczytaną z pliku jako x) oblicza wartość m*x+n, gdzie:
 
+x-  argument funkcji
+m- ilość podzielników liczby x
+a- ilość liczb z zakresu 2..x, które są liczbami pierwszymi
+
+i wypisuje te wartości na ekranie.
+
+Program powinien przewidywać obsługę dwóch standardowych wyjątków:
+• brak pliku do odczytu danych
+• nieprawidłowy format danych wejściowych z pliku oraz obsługę jednego dodatkowego wyjątku wymyślonego fantazyjnie przez siebie. 
+
+Plik z liczbami do testowania rozwiązania można sobie utworzyć samodzielnie.
