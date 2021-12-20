@@ -15,6 +15,7 @@ namespace APSL_P_III_Zad4
         }
         static void Main(string[] args)
         {   
+            Console.Clear();
             try{
                 FileStream plik = new FileStream("dane.txt", FileMode.Open, FileAccess.Read);
                 StreamReader czytaj = new StreamReader(plik);
