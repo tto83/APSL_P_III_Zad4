@@ -1,0 +1,16 @@
+/home/toto/Dokumenty/c#/APSL_P_III_Zad4/obj/Debug/net5.0/APSL_P_III_Zad4.csproj.AssemblyReference.cache
+/home/toto/Dokumenty/c#/APSL_P_III_Zad4/obj/Debug/net5.0/APSL_P_III_Zad4.GeneratedMSBuildEditorConfig.editorconfig
+/home/toto/Dokumenty/c#/APSL_P_III_Zad4/obj/Debug/net5.0/APSL_P_III_Zad4.AssemblyInfoInputs.cache
+/home/toto/Dokumenty/c#/APSL_P_III_Zad4/obj/Debug/net5.0/APSL_P_III_Zad4.AssemblyInfo.cs
+/home/toto/Dokumenty/c#/APSL_P_III_Zad4/obj/Debug/net5.0/APSL_P_III_Zad4.csproj.CoreCompileInputs.cache
+/home/toto/Dokumenty/c#/APSL_P_III_Zad4/bin/Debug/net5.0/APSL_P_III_Zad4
+/home/toto/Dokumenty/c#/APSL_P_III_Zad4/bin/Debug/net5.0/APSL_P_III_Zad4.deps.json
+/home/toto/Dokumenty/c#/APSL_P_III_Zad4/bin/Debug/net5.0/APSL_P_III_Zad4.runtimeconfig.json
+/home/toto/Dokumenty/c#/APSL_P_III_Zad4/bin/Debug/net5.0/APSL_P_III_Zad4.runtimeconfig.dev.json
+/home/toto/Dokumenty/c#/APSL_P_III_Zad4/bin/Debug/net5.0/APSL_P_III_Zad4.dll
+/home/toto/Dokumenty/c#/APSL_P_III_Zad4/bin/Debug/net5.0/ref/APSL_P_III_Zad4.dll
+/home/toto/Dokumenty/c#/APSL_P_III_Zad4/bin/Debug/net5.0/APSL_P_III_Zad4.pdb
+/home/toto/Dokumenty/c#/APSL_P_III_Zad4/obj/Debug/net5.0/APSL_P_III_Zad4.dll
+/home/toto/Dokumenty/c#/APSL_P_III_Zad4/obj/Debug/net5.0/ref/APSL_P_III_Zad4.dll
+/home/toto/Dokumenty/c#/APSL_P_III_Zad4/obj/Debug/net5.0/APSL_P_III_Zad4.pdb
+/home/toto/Dokumenty/c#/APSL_P_III_Zad4/obj/Debug/net5.0/APSL_P_III_Zad4.genruntimeconfig.cache
